@@ -1,7 +1,7 @@
 # Olá, sou o Samuel Cardoso!
 
 #### * 🔭 Estou cursando Sistemas de Informação no Uniaraxá 
-#### * 🌱 Estou estudando C# e Java.
+#### * 🌱 Estou estudando C#.
 #### * 📫 Contate-me em samuelcm456@gmail.com 
 
 <div align="center">
