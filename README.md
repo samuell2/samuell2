@@ -19,6 +19,7 @@
   ##
   
   <div>
+  <a href = "https://www.linkedin.com/in/samuel-cardoso-06b722216"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "mailto:samuelcm456@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  ![Snake animation](https://github.com/samuell2/samuell2/blob/output/github-contribution-grid-snake.svg)
