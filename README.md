@@ -1,4 +1,4 @@
-# Olá, sou o Samuel Cardoso!
+# Olá, sou o Samuel!
 
 #### * 🔭 Estou cursando Sistemas de Informação no Uniaraxá 
 #### * 🌱 Estou estudando Python, Power BI e SQL Server.
