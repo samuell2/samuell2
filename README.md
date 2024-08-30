@@ -1,7 +1,7 @@
 # Olá, sou o Samuel!
 
 #### * 🔭 Estou cursando Sistemas de Informação no Uniaraxá 
-#### * 🌱 Estou estudando Python, Power BI e SQL Server.
+#### * 🌱 Estou estudando Azure Cloud, AWS, Power BI e SQL Server.
 #### * 📫 Contate-me em samuelcm456@gmail.com 
 
 <<div align="stretch">
